@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://static.toiimg.com/photo/msid-87815542/87815542.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-weight: bold;
+}
+
+h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h1, h2 {
+    color: black;
+}
+
+.container{
+    
+    border: 20px solid white;
+    background-color:white;
+    width: 70%;
+    margin: auto;
+    margin-top: 18%;
+    filter: blur(0.1px);
+    border-radius: 15px;
+}
+
+footer{
+   
+    margin-left: 60px;
+    color: white;
+    font-weight: 300;
+    opacity: 0.5;
+}
